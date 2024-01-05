@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.reactnativemsal.react-native-msal-mergeReleaseResources-23:/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\jerog\\.gradle\\caches\\transforms-3\\6b728203aa407c7ff5ce9447768377e8\\transformed\\appcompat-1.4.1\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.reactnativemsal.react-native-msal-merged_res-25:/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\jerog\\.gradle\\caches\\transforms-3\\6b728203aa407c7ff5ce9447768377e8\\transformed\\appcompat-1.4.1\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        }
+    ]
+}

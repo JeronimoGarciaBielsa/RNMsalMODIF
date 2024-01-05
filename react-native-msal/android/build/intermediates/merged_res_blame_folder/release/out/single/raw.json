@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.reactnativemsal.react-native-msal-merged_res-25:/raw/msal_default_config.json",
+        "source": "com.reactnativemsal.react-native-msal-jetified-msal-2.2.3-13:/raw/msal_default_config.json"
+    },
+    {
+        "merged": "com.reactnativemsal.react-native-msal-merged_res-25:/raw/msal_ppe_default_config.json",
+        "source": "com.reactnativemsal.react-native-msal-jetified-msal-2.2.3-13:/raw/msal_ppe_default_config.json"
+    }
+]

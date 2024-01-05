@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.reactnativemsal.react-native-msal-merged_res-25:/menu/example_menu2.xml",
+        "source": "com.reactnativemsal.react-native-msal-core-1.7.0-14:/menu/example_menu2.xml"
+    },
+    {
+        "merged": "com.reactnativemsal.react-native-msal-merged_res-25:/menu/example_menu.xml",
+        "source": "com.reactnativemsal.react-native-msal-core-1.7.0-14:/menu/example_menu.xml"
+    }
+]
